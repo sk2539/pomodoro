@@ -1,0 +1,17 @@
+.button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #c0aab9;
+    font-size: 15px;
+    border-radius: 10px; 
+}
+
+.button:hover {
+    color: beige;
+}
+
+.timeDisplay {
+    padding: 10px;
+}
